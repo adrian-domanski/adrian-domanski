@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrian-domanski
-- 👀 I’m interested in React.js / Next.js / Node.js
+- 👀 I’m interested in React.js / Next.js / Node.js / TypeScript
 - 💞️ I’m looking to collaborate in any of above technologies.
 - 📫 You can reach out to me through my [LinkedIn](https://www.linkedin.com/in/adrian-domanski-dev/)
 - 💻 Here is my portfolio [kodario.pl](https://kodario.pl/)
