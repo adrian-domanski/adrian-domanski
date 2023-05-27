@@ -54,11 +54,6 @@ I'm Adrian Domański a Full Stack Web Developer. I Spend most of time coding out
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: adrian.domanski.dev@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
 <details>
 <summary>
   More stuff about me
