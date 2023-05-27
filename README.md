@@ -22,6 +22,7 @@ I'm Adrian Domański a Full Stack Web Developer. I Spend most of time coding out
 
 #### Bizness
 - :email: adrian.domanski.dev@gmail.com
+- 👩‍💻 My website: [kodario.com](https://kodario.com)
 
 <details>
 <summary>
