@@ -1,6 +1,6 @@
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Adrian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Adrian Domański a Full Stack Web Developer. I Spend most of time coding outstanding projects or reading my favorite book.
 
 :mailbox: Reach me out!
 
@@ -8,12 +8,12 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @Prographers
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 🤔 I’m looking for help with Outstanding Project Ideas.
+- 📫 How to reach me: adrian.domanski.dev@gmail.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: beside my Mac my 2 favorite things are my Kindle 📚 and my bike 🚴‍♀️
 
 #### Top Technologies
 
@@ -52,7 +52,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: adrian.domanski.dev@gmail.com
 
 
 #### Profile Visits 
@@ -66,11 +66,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+I love sharing knowledge and downloading more data into my brain 🧠!
 
 #### Coding Stats
 
@@ -84,14 +80,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
