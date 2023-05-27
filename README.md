@@ -8,7 +8,7 @@ I'm Adrian Domański a Full Stack Web Developer. I Spend most of time coding out
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Prographers
+- 🔭 I’m currently working at @Prographers building 3D configurators
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project Ideas.
 - 📫 How to reach me: adrian.domanski.dev@gmail.com.
