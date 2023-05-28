@@ -4,7 +4,7 @@ I'm Adrian Domański a Full Stack Web Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adrian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-domanski-dev/) [![Mail Badge](https://img.shields.io/badge/-adriandomanski-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adrian.domanski.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-portfolio-blue)](https://www.kodario.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Adrian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-domanski-dev/) [![Mail Badge](https://img.shields.io/badge/-adriandomanski-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adrian.domanski.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Portfolio-blue)](https://www.kodario.com/)
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Prographers building 3D configurators
