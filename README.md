@@ -1,6 +1,6 @@
 ## Hi, I'm Adrian 👋
 
-Full-Stack Developer focused on building scalable web applications with **React, TypeScript, and ASP.NET Core (.NET)**.
+Full-Stack Developer focused on building scalable web applications with **React, TypeScript, and Python**.
 
 I currently work on enterprise systems, building secure APIs and modern frontend architectures. Outside of work, I enjoy refining side projects, improving performance, and keeping things clean and maintainable.
 
